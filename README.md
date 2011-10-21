@@ -92,6 +92,7 @@ ntwitter also supports user and site streams:
 - [AvianFlu](http://github.com/AvianFlu) - Upgrades and current support
 - [Jeff Waugh](http://github.com/jdub) (primary author)
 - [rick](http://github.com/technoweenie) (parser.js and, of course, twitter-node!)
+- [Cole Gillespie](http://github.com/coleGillespie) ( additional documentation )
 
 ## TODO
 
